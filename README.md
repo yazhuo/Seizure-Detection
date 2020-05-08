@@ -1,2 +1,2 @@
 # Seizure-Detection
-This is the very beginning for 2020 ML project
+Documentation for our CS534 Machine Learning final project.
